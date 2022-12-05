@@ -1,0 +1,21 @@
+{
+  "name": "metamask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "meta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e yml,js ./bin/www.js 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kim-Hyunhee/metamask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kim-Hyunhee/metamask/issues"
+  },
+  "homepage": "https://github.com/Kim-Hyunhee/metamask#readme",
+  "type": "module"
+}
